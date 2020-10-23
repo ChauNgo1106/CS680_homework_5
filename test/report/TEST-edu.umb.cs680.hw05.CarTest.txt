@@ -1,0 +1,7 @@
+Testcase: edu.umb.cs680.hw05.CarTest
+Test: verifyCarEqualityWithMakeModelYear1() took 23 milli sec(s)
+Test: verifyCarEqualityWithMakeModelYear2() took 1 milli sec(s)
+Test: check_Lexus_ES_creation() took 2 milli sec(s)
+Test: check_Lexus_LS_creation() took 0 milli sec(s)
+Test: verifyCarEqualityWithMakeModelYear() took 0 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 38 milli sec(s)
